@@ -1,0 +1,9 @@
+[project]
+name = "repobuddy"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ollama>=0.4.7",
+]
